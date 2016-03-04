@@ -1,3 +1,5 @@
+package com.linw.mymanager;
+
 import android.app.Application;
 
 /**
