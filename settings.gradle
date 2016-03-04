@@ -1,1 +1,1 @@
-include ':app', ':smsSDK'
+include ':app', ':smsSDK', ':leancould'
